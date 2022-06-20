@@ -19,7 +19,7 @@
   </thead>
   <tbody>
     <tr>
-	    <td><a href="link"><b>SQL Practise</b></a></td>
+	    <td><a href="https://github.com/mateuszgua/SQL_Practise.git"><b>SQL Practise</b></a></td>
     </tr>
 	  <tr>
 		  <td><a href="link"><b>Python</b></a></td>
