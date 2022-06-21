@@ -1,7 +1,7 @@
 <h1>Hey, nice to see you!😏</h1>
 
 <p>Welcome to my page! 
-</br> I'm Mateusz, programmer automation with aspiration to be backend developher.</p>
+</br> I'm Mateusz, programmer automation with aspiration to be backend developer.</p>
 <h3>Things I code with</h3>
 <p>
   
