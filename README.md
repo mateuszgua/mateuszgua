@@ -10,25 +10,35 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>💻 Projects</b></td>
+	    <td><b>	🔰  Project	</b></td>
+	    <td><b>	📝 Language	</b></td>
+	    <td><b>	💻  Tool	</b></td>
     </tr>
   </thead>
   <tbody>
-    <tr>
-	    <td><a href="https://github.com/mateuszgua/SQL_Practise.git"><b>SQL Practise</b></a></td>
-    </tr>
 	  <tr>
-		  <td><a href="link"><b>Python</b></a></td>
-    </tr>
-		<tr>
-			<td><a href="link"><b>Android</b></a></td>
-    </tr>
-  </tbody>
+		  <td><a href="https://github.com/mateuszgua/SQL_Practise.git"><b>SQL Practise</b></a></td>
+		  <td><b>SQL</b></td>
+		  <td><b>PostgreSQL</b></td>
+	  </tr>
+	  <tr>
+		  <td><a href="link"><b>Learning log</b></a></td>
+		  <td><b>Python, Django</b></td>
+		  <td><b>PyCharm</b></td>
+	  </tr>	
+	  <tr>
+		  <td><a href="link"><b>List and connect to device</b></a></td>
+		  <td><b>Java</b></td>
+		  <td><b>Android Studio</b></td>
+	  </tr>
+	</tbody>
 </table>
+
 <h3>Where to find me</h3>
 <p>
 <a href="link" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
