@@ -33,7 +33,7 @@
 		  <td><b>PyCharm</b></td>
 	  </tr>	
 	  <tr>
-		  <td><a href="https://github.com/mateuszgua/Device-connect"><b>List and connect to device</b></a></td>
+		  <td><a href="https://github.com/mateuszgua/Device-connect"><b>Device connect</b></a></td>
 		  <td><b>Java</b></td>
 		  <td><b>Android Studio</b></td>
 	  </tr>
