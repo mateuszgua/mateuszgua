@@ -10,6 +10,8 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+
 </p>
 
 <h3>Open source projects</h3>
@@ -22,6 +24,11 @@
     </tr>
   </thead>
   <tbody>
+  	  <tr>
+		  <td><a href="https://github.com/mateuszgua/game_typer"><b>Bet Sport Games</b></a></td>
+		  <td><b>Python, Flask</b></td>
+		  <td><b>Visual Studio Code</b></td>
+	  </tr>
 	  <tr>
 		  <td><a href="https://github.com/mateuszgua/WebCustomService"><b>Web Custom Service</b></a></td>
 		  <td><b>Python, Django</b></td>
@@ -47,6 +54,6 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="link" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="www.linkedin.com/in/in-mateusz-gula" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="link" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 </p>
