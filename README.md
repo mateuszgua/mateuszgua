@@ -2,6 +2,7 @@
 
 <p>Welcome to my page! 
 </br> I'm Mateusz, programmer automation with aspiration to be backend developer.</p>
+<br>
 <h3>Things I code with</h3>
 <p>
   
@@ -15,6 +16,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
+<br>
 
 <h3>Open source projects</h3>
 <table>
@@ -58,7 +60,11 @@
 	  </tr>
 	</tbody>
 </table>
+<br>
 
+<h3>Stats</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszgua&hide=stars,commits,prs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <h3>Where to find me</h3>
 <p>
 <a href="https://www.linkedin.com/in/in-mateusz-gula/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
