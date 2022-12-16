@@ -63,8 +63,10 @@
 <br>
 
 <h3>Stats</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuszgua&hide=stars,commits,prs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuszgua&show_icons=true&locale=en&layout=compact&theme=gotham" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mateuszgua&show_icons=true&hide=issues,contribs&theme=gotham" /></p>
 <br>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://www.linkedin.com/in/in-mateusz-gula/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
