@@ -11,6 +11,8 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 </p>
 
@@ -25,6 +27,11 @@
   </thead>
   <tbody>
   	  <tr>
+		  <td><a href="https://github.com/mateuszgua/Http_router"><b>Http Router</b></a></td>
+		  <td><b>Go</b></td>
+		  <td><b>Visual Studio Code</b></td>
+	  </tr>
+	  <tr>
 		  <td><a href="https://github.com/mateuszgua/game_typer"><b>Bet Sport Games</b></a></td>
 		  <td><b>Python, Flask</b></td>
 		  <td><b>Visual Studio Code</b></td>
@@ -54,6 +61,4 @@
 
 <h3>Where to find me</h3>
 <p>
-<a href="www.linkedin.com/in/in-mateusz-gula" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="link" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-</p>
+<a href="https://www.linkedin.com/in/in-mateusz-gula/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
