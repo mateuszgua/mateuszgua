@@ -28,6 +28,11 @@
     </tr>
   </thead>
   <tbody>
+	  <tr>
+		  <td><a href="https://github.com/mateuszgua/to-do-app"><b>To Do App</b></a></td>
+		  <td><b>Python, Flask</b></td>
+		  <td><b>Visual Studio Code</b></td>
+	  </tr>
   	  <tr>
 		  <td><a href="https://github.com/mateuszgua/my-portfolio.git"><b>Portfolio App</b></a></td>
 		  <td><b>Python, Flask, Html, Css, JavaScript</b></td>
