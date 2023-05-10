@@ -8,6 +8,8 @@
             technologies.
             In free time I’m interested in sport and like play board games.</p>
 <br>
+🔥 <a href="https://devgua-portfolio.web.app/"><b>DevGua Page</b></a>
+<br>
 <h3>Things I code with</h3>
 <p>
   
