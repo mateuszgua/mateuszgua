@@ -20,6 +20,7 @@
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img alt="Go/Golang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />  
@@ -42,7 +43,7 @@
   <tbody>
 	  <tr>
 		  <td><a href="https://github.com/mateuszgua/formula1-statistics.git"><b>Formula 1 Statistics Site</b></a></td>
-		  <td><b>PySpark, Python, AWS</b></td>
+		  <td><b>PySpark, Python, AWS, Power BI</b></td>
 		  <td><b>Visual Studio Code</b></td>
 	  </tr>
 	  <tr>
